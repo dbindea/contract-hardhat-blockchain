@@ -49,3 +49,7 @@ await contract01.text()
 await contract01.setText("Another text...")
 await contract01.text()
 ```
+
+## More info
+
+https://dev.to/turupawn/hardhat-hola-mundo-en-un-blockchain-de-prueba-40c1
